@@ -1,5 +1,19 @@
-// app.get "/"
+const path = require("path");
 
-// app.get "/exercise"
+module.exports = function(app) {
 
-// app.get "/stats"
+    // homepage
+    app.get("/", function (req, res) {
+        res.sendFile(path.join(__dirname, "../public/index.html"));
+      });
+    
+    // when Continue Workout or New Workout is clicked
+    app.get("/exercise", function(req, res) {
+        res.sendFile(path.join(__dirname, "../public/exercise.html"));
+    });
+
+    // when Dashboard is clicked
+    app.get("/stats", function(req, res) {
+        res.sendFile(path.join(__dirname, "../public/stats.html"));
+    });
+};
