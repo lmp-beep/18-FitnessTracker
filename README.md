@@ -30,5 +30,13 @@ Click here to navigate to the deployed site on Heroku:
   ***
   <br/><br/>
 
+  ![Screen Shot 2021-06-22 at 9 57 40 AM](https://user-images.githubusercontent.com/77073582/122938409-bac87880-d340-11eb-82cd-b33eea1840a2.png)
+
+![Screen Shot 2021-06-22 at 9 57 21 AM](https://user-images.githubusercontent.com/77073582/122938407-bac87880-d340-11eb-9a02-a8636522b9c6.png)
+
+![Screen Shot 2021-06-22 at 9 58 06 AM](https://user-images.githubusercontent.com/77073582/122938411-bb610f00-d340-11eb-9c36-d38365b2676e.png)
+
+ ![Screen Shot 2021-06-22 at 9 56 34 AM](https://user-images.githubusercontent.com/77073582/122938404-ba2fe200-d340-11eb-9f9a-ec8284d6aaea.png)
+
 
 
