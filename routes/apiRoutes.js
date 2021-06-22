@@ -32,7 +32,7 @@ module.exports = function(app) {
     app.put("/api/workouts/:id", (req, res) => {
         console.log(req.body);
 
-        db.Workout.findOneAndUpdate(
+        db.Workout.findByIdAndUpdate(
             req.params.id,
             { $push: { exercises: req.body } },
             { new: true }
@@ -63,5 +63,5 @@ module.exports = function(app) {
 
     // app.get - find total duration from past seven workouts
 
-}
+};
 
