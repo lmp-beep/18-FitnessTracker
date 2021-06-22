@@ -18,7 +18,7 @@ This Fitness Tracker App uses Express, Mongoose and MongoDB Atlas to create and 
 
 ## Usage
 Click here to navigate to the deployed site on Heroku:
-<a href="https://nameless-citadel-24317.herokuapp.com/" target="_blank">Fitness Tracker</a>
+<a href="https://lmp-fitness-tracker.herokuapp.com/" target="_blank">Fitness Tracker</a>
   ***
 <br/><br/>
 
